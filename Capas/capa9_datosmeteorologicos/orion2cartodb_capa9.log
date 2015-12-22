@@ -1,0 +1,7 @@
+nohup: ignoring input
+[0;0mtime=2015-12-04 12:01:35,038|lvl=INFO|ob=ES|comp=ORION_TO_CARTODB|op=Loading properties from orion2cartodb.yaml[0;0m
+[0;0mtime=2015-12-04 12:01:35,040|lvl=INFO|ob=ES|comp=ORION_TO_CARTODB|op=Loaded[0;0m
+nohup: ignoring input
+[0;0mtime=2015-12-04 12:05:41,552|lvl=INFO|ob=ES|comp=ORION_TO_CARTODB|op=Loading properties from orion2cartodb.yaml[0;0m
+[0;0mtime=2015-12-04 12:05:41,553|lvl=INFO|ob=ES|comp=ORION_TO_CARTODB|op=Loaded[0;0m
+[1;31mtime=2015-12-04 12:09:50,160|lvl=ERROR|ob=ES|comp=ORION_TO_CARTODB|op=An exception occurred[0;0m

@@ -1,0 +1,8 @@
+orion2cartodb_host: 0.0.0.0
+orion2cartodb_port: 9109
+cartodb_base_endpoint: https://tecnoport.cartodb.com
+cartodb_apikey: 08a05ff6a82db8ffa6c6245d553075df3a7492ed
+cartodb_tablename: capa9_meteo
+#Choose between realtime or historic mode
+cartodb_mode: realtime
+

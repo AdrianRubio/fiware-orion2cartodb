@@ -1,0 +1,18 @@
+nohup: ignoring input
+nohup: failed to run command ‘buoy_notifier_polling.py’: No such file or directory
+nohup: ignoring input
+nohup: failed to run command ‘buoy_notifier_polling.py’: No such file or directory
+nohup: ignoring input
+nohup: failed to run command ‘buoy_notifier_polling.py’: No such file or directory
+nohup: ignoring input
+nohup: ignoring input
+[0;0mtime=2015-12-22 09:53:44,169|lvl=INFO|ob=ES|comp=BUOY_NOTIFIER|op=Retriving bouys ...[0;0m
+[0;0mtime=2015-12-22 09:53:44,448|lvl=INFO|ob=ES|comp=BUOY_NOTIFIER|op=Calculating the difference between the real position and ideal position[0;0m
+[0;0mtime=2015-12-22 09:53:44,449|lvl=INFO|ob=ES|comp=BUOY_NOTIFIER|op=The buoy is within the edge[0;0m
+[0;0mtime=2015-12-22 09:53:44,449|lvl=INFO|ob=ES|comp=BUOY_NOTIFIER|op=Calculating the difference between the real position and ideal position[0;0m
+[0;0mtime=2015-12-22 09:53:44,449|lvl=INFO|ob=ES|comp=BUOY_NOTIFIER|op=The buoy is within the edge[0;0m
+[0;0mtime=2015-12-22 10:53:44,535|lvl=INFO|ob=ES|comp=BUOY_NOTIFIER|op=Retriving bouys ...[0;0m
+[0;0mtime=2015-12-22 10:53:44,846|lvl=INFO|ob=ES|comp=BUOY_NOTIFIER|op=Calculating the difference between the real position and ideal position[0;0m
+[0;0mtime=2015-12-22 10:53:44,846|lvl=INFO|ob=ES|comp=BUOY_NOTIFIER|op=The buoy is within the edge[0;0m
+[0;0mtime=2015-12-22 10:53:44,846|lvl=INFO|ob=ES|comp=BUOY_NOTIFIER|op=Calculating the difference between the real position and ideal position[0;0m
+[0;0mtime=2015-12-22 10:53:44,846|lvl=INFO|ob=ES|comp=BUOY_NOTIFIER|op=The buoy is within the edge[0;0m

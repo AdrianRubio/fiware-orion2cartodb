@@ -1,0 +1,97 @@
+nohup: ignoring input
+[0;0mtime=2015-12-16 12:34:43,840|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loading properties from layerproperties[0;0m
+[0;0mtime=2015-12-16 12:34:43,841|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loaded[0;0m
+[0;0mtime=2015-12-16 12:34:43,842|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loading properties from webhookwebapp2.yaml[0;0m
+[0;0mtime=2015-12-16 12:34:43,843|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loaded[0;0m
+[0;2mtime=2015-12-16 12:34:43,847|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 140588994672384: Initial worker pool[0;0m
+[0;2mtime=2015-12-16 12:34:43,848|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 140588986279680: Initial worker pool[0;0m
+[0;2mtime=2015-12-16 12:34:43,848|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 140588909328128: Initial worker pool[0;0m
+[0;2mtime=2015-12-16 12:34:43,848|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 140588900935424: Initial worker pool[0;0m
+[0;2mtime=2015-12-16 12:34:43,849|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 140588892542720: Initial worker pool[0;0m
+[0;2mtime=2015-12-16 12:34:43,849|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 140588884150016: Initial worker pool[0;0m
+[0;2mtime=2015-12-16 12:34:43,849|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 140588875757312: Initial worker pool[0;0m
+[0;2mtime=2015-12-16 12:34:43,849|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 140588867364608: Initial worker pool[0;0m
+[0;2mtime=2015-12-16 12:34:43,850|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 140588858971904: Initial worker pool[0;0m
+[0;2mtime=2015-12-16 12:34:43,850|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 140588439566080: Initial worker pool[0;0m
+[0;2mtime=2015-12-16 12:43:34,099|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Added task (0 tasks queued)[0;0m
+[0;0mtime=2015-12-16 12:43:34,246|lvl=INFO|ob=ES|comp=HAVERLAND|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;2mtime=2015-12-16 12:43:34,551|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Setting read timeout to None[0;0m
+[0;2mtime=2015-12-16 12:43:34,728|lvl=DEBUG|ob=ES|comp=HAVERLAND|op="POST /api/v2/sql?q=INSERT%20INTO%20capa12%20(planner_esclusaPPk0,%20planner_PCm29226,%20MMSI,%20planner_PCm62817,%20planner_PFm65935,%20planner_PCm49088,%20alias,%20planner_PCm18416,%20planner_PFm53902,%20planner_sanlucarPPk87,%20planner_PCm381,%20planner_PCm13248)%20VALUES%20('2015-12-12T02:29:00Z',%20'2015-12-12T03:45:22Z',%20'235056239',%20'2015-12-12T05:13:08Z',%20'2015-12-12T05:21:17Z',%20'2015-12-12T04:37:16Z',%20'LAUREN%20C',%20'2015-12-12T03:17:07Z',%20'2015-12-12T04:49:50Z',%20'2015-12-12T06:16:19Z',%20'2015-12-12T02:30:00Z',%20'2015-12-12T03:03:42Z')&api_key=08a05ff6a82db8ffa6c6245d553075df3a7492ed HTTP/1.1" 200 51[0;0m
+[0;0mtime=2015-12-16 12:43:34,731|lvl=INFO|ob=ES|comp=HAVERLAND|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;2mtime=2015-12-16 12:43:35,034|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Setting read timeout to None[0;0m
+[0;2mtime=2015-12-16 12:43:35,146|lvl=DEBUG|ob=ES|comp=HAVERLAND|op="POST /api/v2/sql?q=INSERT%20INTO%20capa12%20(planner_PFm53902,%20planner_PCm49088,%20MMSI,%20planner_esclusaPPk0,%20planner_PFm65935,%20planner_PCm29226,%20planner_PCm18416,%20planner_sanlucarPPk87,%20planner_PCm13248,%20planner_PCm381,%20planner_PCm62817)%20VALUES%20('2015-12-12T07:49:25Z',%20'2015-12-12T08:05:20Z',%20'376609000',%20'2015-12-12T10:47:37Z',%20'2015-12-12T07:09:38Z',%20'2015-12-12T09:11:00Z',%20'2015-12-12T09:46:44Z',%20'2015-12-12T06:00:00Z',%20'2015-12-12T10:03:42Z',%20'2015-12-12T10:46:22Z',%20'2015-12-12T07:19:57Z')&api_key=08a05ff6a82db8ffa6c6245d553075df3a7492ed HTTP/1.1" 200 51[0;0m
+[0;2mtime=2015-12-17 12:09:40,552|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Added task (0 tasks queued)[0;0m
+[0;0mtime=2015-12-17 12:09:40,666|lvl=INFO|ob=ES|comp=HAVERLAND|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;2mtime=2015-12-17 12:09:40,938|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Setting read timeout to None[0;0m
+[0;2mtime=2015-12-17 12:09:41,037|lvl=DEBUG|ob=ES|comp=HAVERLAND|op="POST /api/v2/sql?q=INSERT%20INTO%20capa12%20(planner_esclusaPPk0,%20planner_PCm29226,%20MMSI,%20planner_PCm62817,%20planner_PFm65935,%20planner_PCm49088,%20alias,%20planner_PCm18416,%20planner_PFm53902,%20planner_sanlucarPPk87,%20planner_PCm381,%20planner_PCm13248)%20VALUES%20('2015-12-12T02:29:00Z',%20'2015-12-12T03:45:22Z',%20'235056239',%20'2015-12-12T05:13:08Z',%20'2015-12-12T05:21:17Z',%20'2015-12-12T04:37:16Z',%20'LAUREN%20C',%20'2015-12-12T03:17:07Z',%20'2015-12-12T04:49:50Z',%20'2015-12-12T06:16:19Z',%20'2015-12-12T02:30:00Z',%20'2015-12-12T03:03:42Z')&api_key=08a05ff6a82db8ffa6c6245d553075df3a7492ed HTTP/1.1" 200 51[0;0m
+[0;0mtime=2015-12-17 12:09:41,040|lvl=INFO|ob=ES|comp=HAVERLAND|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;2mtime=2015-12-17 12:09:41,375|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Setting read timeout to None[0;0m
+[0;2mtime=2015-12-17 12:09:41,497|lvl=DEBUG|ob=ES|comp=HAVERLAND|op="POST /api/v2/sql?q=INSERT%20INTO%20capa12%20(planner_PFm53902,%20planner_PCm49088,%20MMSI,%20planner_esclusaPPk0,%20planner_PFm65935,%20planner_PCm29226,%20planner_PCm18416,%20planner_sanlucarPPk87,%20planner_PCm13248,%20planner_PCm381,%20planner_PCm62817)%20VALUES%20('2015-12-12T07:49:25Z',%20'2015-12-12T08:05:20Z',%20'376609000',%20'2015-12-12T10:47:37Z',%20'2015-12-12T07:09:38Z',%20'2015-12-12T09:11:00Z',%20'2015-12-12T09:46:44Z',%20'2015-12-12T06:00:00Z',%20'2015-12-12T10:03:42Z',%20'2015-12-12T10:46:22Z',%20'2015-12-12T07:19:57Z')&api_key=08a05ff6a82db8ffa6c6245d553075df3a7492ed HTTP/1.1" 200 51[0;0m
+nohup: ignoring input
+[0;0mtime=2015-12-18 09:35:50,106|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loading properties from layerproperties[0;0m
+[0;0mtime=2015-12-18 09:35:50,107|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loaded[0;0m
+[0;0mtime=2015-12-18 09:35:50,108|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loading properties from webhookwebapp2.yaml[0;0m
+[0;0mtime=2015-12-18 09:35:50,109|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loaded[0;0m
+[0;2mtime=2015-12-18 09:35:50,113|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 139788474103552: Initial worker pool[0;0m
+[0;2mtime=2015-12-18 09:35:50,113|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 139788465710848: Initial worker pool[0;0m
+[0;2mtime=2015-12-18 09:35:50,113|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 139788457318144: Initial worker pool[0;0m
+[0;2mtime=2015-12-18 09:35:50,114|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 139788448925440: Initial worker pool[0;0m
+[0;2mtime=2015-12-18 09:35:50,114|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 139788233471744: Initial worker pool[0;0m
+[0;2mtime=2015-12-18 09:35:50,114|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 139788225079040: Initial worker pool[0;0m
+[0;2mtime=2015-12-18 09:35:50,114|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 139788216686336: Initial worker pool[0;0m
+[0;2mtime=2015-12-18 09:35:50,114|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 139788208293632: Initial worker pool[0;0m
+[0;2mtime=2015-12-18 09:35:50,115|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 139788199900928: Initial worker pool[0;0m
+[0;2mtime=2015-12-18 09:35:50,115|lvl=DEBUG|ob=ES|comp=HAVERLAND|op=Started new worker 139788191508224: Initial worker pool[0;0m
+nohup: ignoring input
+[0;0mtime=2015-12-18 09:37:00,261|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loading properties from layerproperties[0;0m
+[0;0mtime=2015-12-18 09:37:00,262|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loaded[0;0m
+[0;0mtime=2015-12-18 09:37:00,262|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loading properties from webhookwebapp2.yaml[0;0m
+[0;0mtime=2015-12-18 09:37:00,263|lvl=INFO|ob=ES|comp=HAVERLAND|op=Loaded[0;0m
+[0;0mtime=2015-12-18 09:37:34,087|lvl=INFO|ob=ES|comp=HAVERLAND|op=Received Json[0;0m
+[0;0mtime=2015-12-18 09:37:34,200|lvl=INFO|ob=ES|comp=HAVERLAND|op=Preparing data for CartoDB[0;0m
+[0;0mtime=2015-12-18 09:37:34,200|lvl=INFO|ob=ES|comp=HAVERLAND|op=Send data to CartoDB[0;0m
+[0;0mtime=2015-12-18 09:37:34,211|lvl=INFO|ob=ES|comp=HAVERLAND|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;0mtime=2015-12-18 09:37:34,583|lvl=INFO|ob=ES|comp=HAVERLAND|op=Response from CartoDB: [ <Response [200]> ][0;0m
+[0;0mtime=2015-12-18 09:37:34,585|lvl=INFO|ob=ES|comp=HAVERLAND|op=Preparing data for CartoDB[0;0m
+[0;0mtime=2015-12-18 09:37:34,585|lvl=INFO|ob=ES|comp=HAVERLAND|op=Send data to CartoDB[0;0m
+[0;0mtime=2015-12-18 09:37:34,586|lvl=INFO|ob=ES|comp=HAVERLAND|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;0mtime=2015-12-18 09:37:35,001|lvl=INFO|ob=ES|comp=HAVERLAND|op=Response from CartoDB: [ <Response [200]> ][0;0m
+nohup: ignoring input
+[0;0mtime=2015-12-18 09:39:22,175|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loading properties from layerproperties[0;0m
+[0;0mtime=2015-12-18 09:39:22,176|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loaded[0;0m
+[0;0mtime=2015-12-18 09:39:22,177|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loading properties from webhookwebapp2.yaml[0;0m
+[0;0mtime=2015-12-18 09:39:22,177|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loaded[0;0m
+nohup: ignoring input
+[0;0mtime=2015-12-18 09:41:27,849|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loading properties from layerproperties[0;0m
+[0;0mtime=2015-12-18 09:41:27,850|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loaded[0;0m
+[0;0mtime=2015-12-18 09:41:27,850|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loading properties from deployconfig.yaml[0;0m
+[0;0mtime=2015-12-18 09:41:27,851|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loaded[0;0m
+[0;0mtime=2015-12-18 09:43:59,349|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Received Json[0;0m
+[0;0mtime=2015-12-18 09:43:59,351|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Received Json[0;0m
+[0;0mtime=2015-12-18 09:43:59,461|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Preparing data for CartoDB[0;0m
+[0;0mtime=2015-12-18 09:43:59,461|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Send data to CartoDB[0;0m
+[0;0mtime=2015-12-18 09:43:59,463|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Preparing data for CartoDB[0;0m
+[0;0mtime=2015-12-18 09:43:59,463|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Send data to CartoDB[0;0m
+[0;0mtime=2015-12-18 09:43:59,474|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;0mtime=2015-12-18 09:43:59,475|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;0mtime=2015-12-18 09:43:59,924|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Response from CartoDB: [ <Response [200]> ][0;0m
+[0;0mtime=2015-12-18 09:43:59,966|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Response from CartoDB: [ <Response [200]> ][0;0m
+nohup: ignoring input
+[0;0mtime=2015-12-18 09:46:45,281|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loading properties from layerproperties[0;0m
+[0;0mtime=2015-12-18 09:46:45,282|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loaded[0;0m
+[0;0mtime=2015-12-18 09:46:45,283|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loading properties from deployconfig.yaml[0;0m
+[0;0mtime=2015-12-18 09:46:45,283|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Loaded[0;0m
+[0;0mtime=2015-12-18 09:47:55,274|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Received Json[0;0m
+[0;0mtime=2015-12-18 09:47:55,388|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Preparing data for CartoDB[0;0m
+[0;0mtime=2015-12-18 09:47:55,388|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Send data to CartoDB[0;0m
+[0;0mtime=2015-12-18 09:47:55,397|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;0mtime=2015-12-18 09:47:55,768|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Response from CartoDB: [ <Response [200]> ][0;0m
+[0;0mtime=2015-12-18 09:47:55,769|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Preparing data for CartoDB[0;0m
+[0;0mtime=2015-12-18 09:47:55,770|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Send data to CartoDB[0;0m
+[0;0mtime=2015-12-18 09:47:55,771|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;0mtime=2015-12-18 09:47:56,140|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Response from CartoDB: [ <Response [200]> ][0;0m
+[0;0mtime=2015-12-18 09:55:47,997|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Received Json[0;0m
+[0;0mtime=2015-12-18 09:55:48,092|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Preparing data for CartoDB[0;0m
+[0;0mtime=2015-12-18 09:55:48,093|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Send data to CartoDB[0;0m
+[0;0mtime=2015-12-18 09:55:48,094|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Starting new HTTPS connection (1): tecnoport.cartodb.com[0;0m
+[0;0mtime=2015-12-18 09:55:48,592|lvl=INFO|ob=ES|comp=TECNOPORT_CARTODB_CAPA12|op=Response from CartoDB: [ <Response [200]> ][0;0m
