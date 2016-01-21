@@ -90,6 +90,8 @@ def get_all_attributes(x_subject_token):
             if attribute["type"] == "compound":
                 if not (attribute["name"] in new_attributes):
                     for subattribute in attribute["value"]:
+                        subattribute["name"]=subattribute["name"].replace("-","_")
+                        subattribute["name"]=subattribute["name"].replace(":","_")
                         new_attributes.append("%s_%s" % (attribute["name"],subattribute["name"]))
 
             else:
