@@ -41,6 +41,8 @@ class jsonfromCB(webapp2.RequestHandler):
                 if attribute["type"] == "compound":
 
                     for subattribute in attribute["value"]:
+                        subattribute["name"]=subattribute["name"].replace("-","_")
+                        subattribute["name"]=subattribute["name"].replace(":","_")
                         attributes["%s_%s" % (attribute["name"],subattribute["name"])]  = subattribute["value"]
                 else:
                     attributes[attribute["name"]] = attribute["value"]
