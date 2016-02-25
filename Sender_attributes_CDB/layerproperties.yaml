@@ -2,4 +2,4 @@
 table_name: capa12
 cartodb_url: https://tecnoport.cartodb.com/api/v2/sql?q=INSERT INTO %s (%s) VALUES (%s)&api_key=%s
 table_checker_url: https://tecnoport.cartodb.com/api/v2/sql?q=SELECT * FROM  CDB_UserTables()&api_key=%s
-cartodb_apikey: 08a05ff6a82db8ffa6c6245d553075df3a7492ed
+cartodb_apikey: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
